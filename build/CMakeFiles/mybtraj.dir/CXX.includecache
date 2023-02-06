@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/corridor.h
+data_type.h
+../include/data_type.h
+
+../include/data_type.h
+stdio.h
+-
+iostream
+-
+fstream
+-
+string
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+map
+-
+utility
+-
+
+/home/liuqiao/project/Btraj/MyBtraj 1-12/src/corridor.cpp
+corridor.h
+/home/liuqiao/project/Btraj/MyBtraj 1-12/src/corridor.h
+

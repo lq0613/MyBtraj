@@ -1,0 +1,3 @@
+/home/liuqiao/project/Btraj/MyBtraj 1-12/build/CMakeFiles/rebuild_cache.dir
+/home/liuqiao/project/Btraj/MyBtraj 1-12/build/CMakeFiles/edit_cache.dir
+/home/liuqiao/project/Btraj/MyBtraj 1-12/build/CMakeFiles/mybtraj.dir
